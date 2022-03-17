@@ -6,7 +6,7 @@
 <br/>
   <h1 align="center">PROJECTS</h1>
 
-<h2>bewkoof.com (clone) </h2>
+<h3>bewkoof.com (clone) </h3>
 
 git-repo link : https://github.com/reeteshin/bewakoof
 <br/>
