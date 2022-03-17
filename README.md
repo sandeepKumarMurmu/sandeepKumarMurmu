@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Murmu</h1>
-- Nexa cars (clone) **https://github.com/sandeepKumarMurmu/nexa**
+Nexa cars (clone)
+git-repo link : https://github.com/sandeepKumarMurmu/nexa
 
-- bewkoof.com (clone) [https://github.com/reeteshin/bewakoof](https://bewakoof-tawny.vercel.app/)
+bewkoof.com (clone) 
+git-repo link : https://github.com/reeteshin/bewakoof
+visit : https://bewakoof-tawny.vercel.app/
 
 - 💬 Ask me about **HTML, js , CSS**
 
