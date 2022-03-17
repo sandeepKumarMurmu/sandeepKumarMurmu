@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Murmu</h1>
 <div align="center"><h3 align="center">Enthusiastic, Aspiring and work oriented full-stack web-developer</h3>
-<h3 align="center">Looking for challenging opportunity</h3>
+<h3 align="center">Looking for challenging opportunities</h3>
 
 <br/>
 <br/>
@@ -27,6 +27,9 @@ visit : https://bewakoof-tawny.vercel.app/
 <a href="https://linkedin.com/in/linkedin.com/in/sandeep-kumar-murmu-0567181a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sandeep-kumar-murmu-0567181a9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sandeep_16murmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeep_16murmu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sltbn99xm4fhblj4dldhze29c1wk2wi14380svw2/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sltbn99xm4fhblj4dldhze29c1wk2wi14380svw2/profile" height="30" width="40" /></a>
+  <br/>
+  <br/>
+  email : sandeep.16murmu@gmail.com
 </p>
 <br/>
 <br/>
