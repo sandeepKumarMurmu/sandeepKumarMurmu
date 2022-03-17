@@ -5,11 +5,7 @@
 <br/>
 <br/>
   <h1 align="center">PROJECTS</h1>
-<h3 >Nexa cars (clone)</h3>
 
-git-repo link : https://github.com/sandeepKumarMurmu/nexa
-<br/>
-<br/>
 <h2>bewkoof.com (clone) </h2>
 
 git-repo link : https://github.com/reeteshin/bewakoof
@@ -18,6 +14,22 @@ visit : https://bewakoof-tawny.vercel.app/
 <br/>
   <br/>
   <br/>
+  <h3 >Mini Food App</h3>
+
+git-repo link : https://github.com/Reshma-fw14/mini_foodApp
+    <br/>
+visit : https://myfoodapp2.netlify.app/
+<br/>
+<br/>
+<br/>
+  <h3 >Todo App</h3>
+
+git-repo link : https://github.com/sandeepKumarMurmu/todo
+  <br/>
+visit : https://todo-omega-two.vercel.app/
+<br/>
+<br/>
+<br/>
 
 
 
