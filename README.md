@@ -5,6 +5,15 @@
 <br/>
 <br/>
   <h1 align="center">PROJECTS</h1>
+  
+  <h3 >Mini Food App</h3>
+
+git-repo link : [https://github.com/Reshma-fw14/mini_foodApp](https://github.com/sandeepKumarMurmu/shoppify)]
+    <br/>
+visit : [https://myfoodapp2.netlify.app/](https://apna-shopping-app.vercel.app/)]
+<br/>
+<br/>
+<br/>
 
 <h3>bewkoof.com (clone) </h3>
 
@@ -14,14 +23,7 @@ visit : https://bewakoof-tawny.vercel.app/
 <br/>
   <br/>
   <br/>
-  <h3 >Mini Food App</h3>
-
-git-repo link : https://github.com/Reshma-fw14/mini_foodApp
-    <br/>
-visit : https://myfoodapp2.netlify.app/
-<br/>
-<br/>
-<br/>
+  
   <h3 >Todo App</h3>
 
 git-repo link : https://github.com/sandeepKumarMurmu/todo
@@ -38,7 +40,7 @@ visit : https://todo-omega-two.vercel.app/
 <!-- <p align="left"> -->
 <a href="https://linkedin.com/in/linkedin.com/in/sandeep-kumar-murmu-0567181a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sandeep-kumar-murmu-0567181a9" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sandeep_16murmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeep_16murmu" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sltbn99xm4fhblj4dldhze29c1wk2wi14380svw2/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sltbn99xm4fhblj4dldhze29c1wk2wi14380svw2/profile" height="30" width="40" /></a>
+
   <br/>
   <br/>
   email : sandeep.16murmu@gmail.com
