@@ -6,11 +6,11 @@
 <br/>
   <h1 align="center">PROJECTS</h1>
   
-  <h3 >Mini Food App</h3>
+  <h3 >Shoppify</h3>
 
-git-repo link : [https://github.com/Reshma-fw14/mini_foodApp](https://github.com/sandeepKumarMurmu/shoppify)]
+git-repo link : [https://github.com/Reshma-fw14/mini_foodApp](https://github.com/sandeepKumarMurmu/shoppify)
     <br/>
-visit : [https://myfoodapp2.netlify.app/](https://apna-shopping-app.vercel.app/)]
+visit : [https://myfoodapp2.netlify.app/](https://apna-shopping-app.vercel.app/)
 <br/>
 <br/>
 <br/>
