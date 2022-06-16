@@ -1,12 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar Murmu</h1>
-<div align="center"><h3 align="center">Enthusiastic, Aspiring and work oriented full-stack web-developer</h3>
-<h3 align="center">Looking for challenging opportunities</h3>
+## 👋 &nbsp;Hey there! I'm Sandeep Kumar Murmu [![GitHub followers](https://img.shields.io/github/followers/sandeepKumarMurmu.svg?style=social&label=Followers)](https://github.com/sandeepKumarMurmu?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Enthusiastic+!+!+!;Aspiring+!+!+!;and+work+oriented;Full+stack+Web+Developer...;And+I'm+a+proud+Indian;)](https://git.io/typing-svg)
+
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I completed my learning from [Masai School](https://www.masaischool.com/) on full-stack web-development .\
+🌱 &nbsp;Still I'm on track for learning more about web-development, UI-design, and Back-end.\
+✍️ &nbsp;In my free time, I spend quality time with family and friends.\
+✉️ &nbsp;You can shoot me an email at sandeep.16murmu@gmail.com! I'll reply as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/folders/1TTKpfQABe2JhYe1m9p6CtznKE7pDTSu2?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Expressjs](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logoColor=092E20)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandeepKumarMurmu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sandeepKumarMurmu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <br/>
 <br/>
-  <h1 align="center">PROJECTS</h1>
+  <h1 align="center">My Works and Contributions</h1>
   
-  <h3 >Shoppify</h3>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Shoppify;)](https://git.io/typing-svg)
 
 git-repo link : [https://github.com/sandeepKumarMurmu/shoppify](https://github.com/sandeepKumarMurmu/shoppify)
     <br/>
@@ -15,7 +52,8 @@ visit : [https://apna-shopping-app.vercel.app/](https://apna-shopping-app.vercel
 <br/>
 <br/>
 
-<h3>bewkoof.com (clone) </h3>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=bewkoof.com;)](https://git.io/typing-svg)
 
 git-repo link : https://github.com/reeteshin/bewakoof
 <br/>
@@ -24,7 +62,7 @@ visit : https://bewakoof-tawny.vercel.app/
   <br/>
   <br/>
   
-  <h3 >Todo App</h3>
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Todo+App;)](https://git.io/typing-svg)
 
 git-repo link : https://github.com/sandeepKumarMurmu/todo
   <br/>
@@ -33,21 +71,15 @@ visit : https://todo-omega-two.vercel.app/
 <br/>
 <br/>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sandeep-kumar-murmu-0567181a9/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sandeep.16murmu@gmail.com"><img src="https://img.shields.io/badge/-sandeep.16murmu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-S.K.Murmu-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/sandeep.16murmu/"><img src="https://img.shields.io/badge/-sandeep.16murmu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005318865729"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
-
-<h3 align="center" >Connect with me:</h3>
-<!-- <p align="left"> -->
-<a href="https://linkedin.com/in/linkedin.com/in/sandeep-kumar-murmu-0567181a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sandeep-kumar-murmu-0567181a9" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sandeep_16murmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sandeep_16murmu" height="30" width="40" /></a>
-
-  <br/>
-  <br/>
-  email : sandeep.16murmu@gmail.com
 </p>
-<br/>
-<br/>
-
-
-<h3 align="center">Programing Languages / Tools </h3>
-<p align="center" display="flex" justify-content="space-around"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
