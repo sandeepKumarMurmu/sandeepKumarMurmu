@@ -68,6 +68,15 @@ git-repo link : https://github.com/sandeepKumarMurmu/todo
   <br/>
 visit : https://todo-omega-two.vercel.app/
 <br/>
+  <br/>
+  <br/>
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Recipe+App;)](https://git.io/typing-svg)
+
+git-repo link : https://github.com/sandeepKumarMurmu/food_recipe/tree/main/recipe
+  <br/>
+visit : https://recipe-puce.vercel.app/
+<br/>
 <br/>
 <br/>
 
