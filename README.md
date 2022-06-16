@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Sandeep Kumar Murmu [![GitHub followers](https://img.shields.io/github/followers/sandeepKumarMurmu.svg?style=social&label=Followers)](https://github.com/sandeepKumarMurmu?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=Enthusiastic+!+!+!;Aspiring+!+!+!;and+work+oriented;Full+stack+Web+Developer...;And+I'm+a+proud+Indian;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=An+Enthusiastic+!+!+!;An+Aspiring+!+!+!;and+A+work+oriented;Full+stack+Web+Developer...;And+a+proud+Indian;)](https://git.io/typing-svg)
 
 
 ### 👨🏻‍💻 &nbsp;About Me
