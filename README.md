@@ -69,8 +69,11 @@
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-FF6600?style=flat&logo=ffmpeg&logoColor=white)&nbsp;
 ![Webmin](https://img.shields.io/badge/Webmin-000000?style=flat&logo=webmin&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<br>
 
+---
+
+<h1 align="center">⚙️ GitHub Analytics</h1>
 <p align="center">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sandeepKumarMurmu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -80,41 +83,57 @@
 
 <br/>
 <br/>
-  <h1 align="center">My Works and Contributions</h1>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Shoppify;)](https://git.io/typing-svg)
 
-git-repo link : [https://github.com/sandeepKumarMurmu/shoppify](https://github.com/sandeepKumarMurmu/shoppify)
-    <br/>
-visit : [https://apna-shopping-app.vercel.app/](https://apna-shopping-app.vercel.app/)
-<br/>
-<br/>
-<br/>
+<h1 align="center">✨ My Creative Work Showcase ✨</h1> 
 
+### 🛍️ &nbsp; **Shoppify**
+A full-fledged e-commerce platform for buying and selling products with user authentication, shopping cart, and payment integration.
+#### **Tech Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) &nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) &nbsp; 
+![Expressjs](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=Express&Color=092E20)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=bewkoof.com;)](https://git.io/typing-svg)
+📂&nbsp; <a href = "https://github.com/sandeepKumarMurmu/shoppify">Git Repository</a>
 
-git-repo link : https://github.com/reeteshin/bewakoof
-<br/>
-visit : https://bewakoof-tawny.vercel.app/
-<br/>
-  <br/>
-  <br/>
-  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Todo+App;)](https://git.io/typing-svg)
+---
+### 🍳 **Recipe App**
+An application for exploring and saving your favorite recipes, with recipe categorization.
 
-git-repo link : https://github.com/sandeepKumarMurmu/todo
-  <br/>
-visit : https://todo-omega-two.vercel.app/
-<br/>
-  <br/>
-  <br/>
-  
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0AA798&size=30&lines=Recipe+App;)](https://git.io/typing-svg)
+#### **Tech Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)&nbsp;
+![API Integration](https://img.shields.io/badge/API%20Integration-0078D7?style=flat&logo=api&logoColor=white)&nbsp;
 
-git-repo link : https://github.com/sandeepKumarMurmu/food_recipe/tree/main/recipe
-  <br/>
-visit : https://recipe-puce.vercel.app/
+📂&nbsp; <a href = "https://github.com/sandeepKumarMurmu/food_recipe/tree/main/recipe">Git Repository</a> | &nbsp;🚀  &nbsp;<a href="https://recipe-puce.vercel.app/">Live Demo</a> 
+
+---
+### ✅ &nbsp; **Todo App**
+A sleek and intuitive task management app built with HTML, CSS and js, featuring priority-based task addition, real-time updates, and local storage for persistent data. Manage your daily tasks with ease and efficiency!
+#### **Tech Stack:**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+
+📂&nbsp; <a href = "https://github.com/sandeepKumarMurmu/todo">Git Repository</a> | &nbsp;🚀  &nbsp;<a href="https://todo-omega-two.vercel.app/">Live Demo</a> 
+
+---
+### 👕 &nbsp; **Bewakoof - Fashion Store**
+My very first web page, crafted with HTML, CSS, and JavaScript, bringing style and functionality together to create a sleek fashion store experience. 
+
+#### **Tech Stack:**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+
+📂&nbsp; <a href = "https://github.com/reeteshin/bewakoof">Git Repository</a> | &nbsp;🚀  &nbsp;<a href="https://bewakoof-tawny.vercel.app/">Live Demo</a> 
+
+---
 <br/>
 <br/>
 <br/>
@@ -131,8 +150,4 @@ visit : https://recipe-puce.vercel.app/
 
 
 </p>
-
-If the **Tech Stack** section isn’t displaying properly, it’s likely due to formatting issues in GitHub’s Markdown renderer. Below is a simplified and corrected version using plain Markdown combined with properly formatted badge links:
-
----
 
