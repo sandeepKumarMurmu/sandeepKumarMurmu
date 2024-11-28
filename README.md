@@ -30,6 +30,9 @@
 ![AWS SDK](https://img.shields.io/badge/AWS_SDK-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)&nbsp;
 
+![Kong](https://img.shields.io/badge/Kong-00203F?style=flat&logo=kong&logoColor=white)&nbsp;
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white)&nbsp;
+
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDb-47A248.svg?style=flat&logo=MongoDb&logoColor=white)&nbsp;
@@ -64,6 +67,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![SQLyog](https://img.shields.io/badge/SQLyog-001F3D?style=flat&logo=sql&logoColor=white)&nbsp;
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)&nbsp;
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)&nbsp;
+![Argo](https://img.shields.io/badge/Argo-CD-0078D7?style=flat&logo=argo&logoColor=white)&nbsp;
+![Groundcover](https://img.shields.io/badge/Groundcover-1A5BA8?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABhklEQVR4nO3XPU7DQBgH8L+IkokVRbKEFMKa6AK8QFtoKKcgKIosheQFtQUUUiQBgkUjEHKGltbOwNWsxl5cEc8/H0FzszEwSDYPckHnbGDBliWic+CVxtEBRpmdR08+6cZhOHVSNAOYTS8CgLijAdYPczXZm7vmSb1TrUqr+FkVJv9Q/gCKT3YNwRtBVjvcyK80kVmkNkZq44RxDiwHwYwkN2MhmOcRfSeIf4alEsGAF0N9wWcM+dxxF9s5kaYniRMQQs5kiKmUwM23lEt5RDmcjSYiOQSZ5EhpmES1FKZCAuZMSoJ5kZFmIjsEmaRJmESZpEhRk4jjR5mSDMmjiM5XjXEecf2FVJin+FIC/1JW78EHnPkvvwhF+4nlfXn/YhKZAAAAAElFTkSuQmCC&logoColor=white)&nbsp;
+
 
 ### **Other Tools**
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-FF6600?style=flat&logo=ffmpeg&logoColor=white)&nbsp;
