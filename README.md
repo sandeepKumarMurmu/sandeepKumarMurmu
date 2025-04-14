@@ -95,6 +95,21 @@
 
 <h1 align="center">✨ My Creative Work Showcase ✨</h1> 
 
+### &nbsp; **Chatty**
+It is a chat application.
+#### **Tech Stack:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) &nbsp; 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) &nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) &nbsp; 
+![Expressjs](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=Express&Color=092E20)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+
+📂&nbsp; <a href = "[https://github.com/sandeepKumarMurmu/todo](https://github.com/sandeepKumarMurmu/chat)">Git Repository</a> | &nbsp;🚀  &nbsp;<a href="https://chat-rg9d.onrender.com/">Live Demo</a> 
+
+---
+
 ### 🛍️ &nbsp; **Shoppify**
 A full-fledged e-commerce platform for buying and selling products with user authentication, shopping cart, and payment integration.
 #### **Tech Stack:**
