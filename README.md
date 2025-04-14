@@ -106,7 +106,7 @@ It is a chat application.
 ![Expressjs](https://img.shields.io/badge/-Expressjs-05122A?style=flat&logo=Express&Color=092E20)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
-📂&nbsp; <a href = "[https://github.com/sandeepKumarMurmu/todo](https://github.com/sandeepKumarMurmu/chat)">Git Repository</a> | &nbsp;🚀  &nbsp;<a href="https://chat-rg9d.onrender.com/">Live Demo</a> 
+📂&nbsp; <a href = "https://github.com/sandeepKumarMurmu/chat">Git Repository</a> | &nbsp;🚀  &nbsp;<a href="https://chat-rg9d.onrender.com/">Live Demo</a> 
 
 ---
 
