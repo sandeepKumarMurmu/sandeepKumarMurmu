@@ -34,7 +34,10 @@
 ![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=flat&logo=typeorm&logoColor=FF4C00)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)&nbsp;
 ![Kong](https://img.shields.io/badge/Kong-00203F?style=flat&logo=kong&logoColor=white)&nbsp;
+
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white)&nbsp;
+![OAuth](https://img.shields.io/badge/OAuth-3D8EB9?style=flat&logo=oauth&logoColor=white)&nbsp;
+
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)&nbsp;
