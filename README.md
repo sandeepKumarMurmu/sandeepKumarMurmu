@@ -6,7 +6,7 @@
 <p style="font-family: 'Roboto', sans-serif; font-weight: bold; font-size: 16px; color: #333;">
   A passionate Full Stack Web Developer with a strong focus on backend development and solving complex challenges.
   <br>
-  <strong>With 3+ years of experience</strong>,
+  <strong>With 4+ years of experience</strong>,
   I specialize in building robust APIs, managing data workflows, and delivering scalable web solutions from end to end.
 </p>
 
@@ -17,6 +17,7 @@
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)&nbsp;
@@ -28,8 +29,10 @@
 
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)&nbsp;
 ![AWS SDK](https://img.shields.io/badge/AWS_SDK-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)&nbsp;
 
+![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=flat&logo=typeorm&logoColor=FF4C00)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)&nbsp;
 ![Kong](https://img.shields.io/badge/Kong-00203F?style=flat&logo=kong&logoColor=white)&nbsp;
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white)&nbsp;
 
