@@ -37,11 +37,16 @@
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white)&nbsp;
 ![OAuth](https://img.shields.io/badge/OAuth-3D8EB9?style=flat&logo=oauth&logoColor=white)&nbsp;
+![LoopBack](https://img.shields.io/badge/LoopBack-3F51B5.svg?style=flat&logo=loopback&logoColor=white)&nbsp;
 
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDb-47A248.svg?style=flat&logo=MongoDb&logoColor=white)&nbsp;
+
+### **Message Brokers**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)&nbsp;
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)&nbsp;
@@ -172,11 +177,16 @@ My very first web page, crafted with HTML, CSS, and JavaScript, bringing style a
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sandeep-kumar-murmu-0567181a9/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.linkedin.com/in/sandeep-kumar-murmu-0567181a9/"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sandeep.16murmu@gmail.com"><img src="https://img.shields.io/badge/-sandeep.16murmu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-S.K.Murmu-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/sandeep.16murmu/"><img src="https://img.shields.io/badge/-sandeep.16murmu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005318865729"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005318865729"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/sandeep-kumar-murmu-0567181a9/" target="_blank"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sandeep.16murmu@gmail.com"><img src="https://img.shields.io/badge/-sandeep.16murmu@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-S.K.Murmu-1769FF?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://www.instagram.com/sandeep.16murmu/" target="_blank"><img src="https://img.shields.io/badge/-sandeep.16murmu-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005318865729" target="_blank"><img src="https://img.shields.io/badge/-Sandeep%20Kumar%20Murmu-1877F2?style=flat&logo=facebook&logoColor=white"/></a> -->
 
 
 </p>
